@@ -1,2 +1,17 @@
-# learn_ruby_the_hard_way
-# Learn Ruby The Hard Way
+# Ruby_Book
+
+- [Intro](./00_intro/README.md)
+- [Syntax](./01_syntax/README.md)
+- [Data Types](./02_data_types/README.md)
+- [Variables](./03_variables/README.md)
+- [Operators](./04_operators/README.md)
+- [PrintOut](./05_printout/README.md)
+- [Input](./06_input/README.md)
+- [Working With Files](./07_working_with_files/README.md)
+- [Conditions](./08_conditions/README.md)
+- [Loops](./09_loops/README.md)
+- [Arrays](./10_arrays/README.md)
+- [Functions](./11_function/README.md)
+- [Exception Handling](./12_exception_handling/README.md)
+- [Standanrd Library](./13_standard_library/README.md)
+- [Exercises](./98_Execersices/README.md)
